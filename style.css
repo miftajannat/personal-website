@@ -36,6 +36,15 @@ p{
     background-repeat:"no-repeat";
 } */
 
+.row1 {
+    display: flex;
+  }
+  
+  .column1 {
+    flex: 50%;
+    padding: 5px;
+  }
+
 
 .row {
     display: flex;
