@@ -8,3 +8,24 @@ h1{
 .name-highlight{
     color: #c0387c;
 }
+
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+   }
+   .link-button{
+    background-color:rgb(206, 29, 147);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+   
+  
+}
+  
