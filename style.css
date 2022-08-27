@@ -38,6 +38,15 @@ p{
     width: 33.33%;
    }
 
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
 section{
    height:500px; 
 }
