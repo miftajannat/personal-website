@@ -34,9 +34,6 @@ p{
     background-repeat:"no-repeat";
 } */
 
-.half-width1 img{
-    width: 33.33%;
-   }
 
 .row {
     display: flex;
