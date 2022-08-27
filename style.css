@@ -11,13 +11,13 @@ h1{
 
 .half-width{
     width: 40%;
-    float:center;
+    float:left;
     margin-left: 10%;
     padding-left: 2%;
 }
 
 .half-width img{
-    width: 60%;
+    width: 100%;
    }
    .link-button{
     background-color:rgb(206, 29, 147);
