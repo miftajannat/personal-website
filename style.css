@@ -24,7 +24,7 @@ p{
 }
 
 .half-width img{
-    width: 50%;
+    width: 30%;
    }
 
 /* .top-banner{  
@@ -46,12 +46,6 @@ section{
   
 }
 
-.single-experience{ 
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
-    height: 80%;
-
-}
 
 footer p{
     text-align: center;
