@@ -41,8 +41,10 @@ p{
   }
   
   .column1 {
-    flex: 50%;
+    flex: 40%;
     padding: 5px;
+    margin-left: 5%;
+    padding-left: 2%;
   }
 
 
