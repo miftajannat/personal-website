@@ -27,6 +27,10 @@ p{
     width: 60%;
    }
 
+   .half-width1 img{
+    width: 33.33%;
+   }
+
 /* .top-banner{  
     background-image: url("images/top-banner.png");
     background-repeat:"no-repeat";
