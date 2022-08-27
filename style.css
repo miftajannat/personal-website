@@ -36,4 +36,13 @@ h1{
     clear: both;
     display: table;
   }  
+  .top-banner{
+    border: 1px solid #c0387c;
+    background-image: url("personal-website1/header-bg.png");
+  }
+
+  section{
+    height: 500px;
+  }
+  
   
